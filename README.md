@@ -1,4 +1,4 @@
-### Livestream Notification Service
+### Design Patterns
 Golang implementations of common design patterns
 
 
